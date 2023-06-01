@@ -1,0 +1,11 @@
+{
+    "name": "GrumpyCat",
+    "website": "https://gccoin.fyi",
+    "description": "GrumpyCat",
+    "explorer": "https://etherscan.io/token/0xd8e2d95c8614f28169757cd6445a71c291dec5bf",
+    "type": "ERC20",
+    "symbol": "GrumpyCat",
+    "decimals": 18,
+    "status": "active",
+    "id": "0xd8e2d95c8614f28169757cd6445a71c291dec5bf"
+}
